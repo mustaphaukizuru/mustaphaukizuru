@@ -9,15 +9,15 @@
   SYSTEM    Success #2FA36B | Warning #F59E0B | Error #E5484D | Info #3B82F6
   ───────────────────────────────────────────────────
   GRADIENTS USED:
-  Header  → Primary Brand Gradient  (Indigo → Deep Slate → Dark Indigo)
+  Header  → Primary Brand Gradient  (Indigo → Peach → Dark Indigo → Soft Tech Blue)
   Streak  → Innovation Gradient     (Indigo → Soft Tech Blue)
   Graph   → Innovation Gradient     (Indigo → Soft Tech Blue)
-  Footer  → Premium Gradient        (Indigo → Carafe → Deep Slate)
+  Footer  → Primary Brand Gradient  (Indigo → Peach → Dark Indigo → Soft Tech Blue)
   ═══════════════════════════════════════════════════
 -->
 
-<!-- PRIMARY BRAND GRADIENT: Indigo #420060 → Deep Slate #2E2F3A → Dark Indigo #1a0030 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,2E2F3A,1a0030&height=220&section=header&text=Mustapha%20Ukizuru&fontSize=48&fontColor=F7F9F4&fontAlignY=36&desc=IT%20Manager%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20CS%20Educator&descAlignY=56&descColor=FFCCAF&animation=fadeIn" width="100%"/>
+<!-- PRIMARY BRAND GRADIENT: Indigo #420060 → Peach #FFCCAF → Dark Indigo #1a0030 → Soft Tech Blue #4A6CFA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,FFCCAF,1a0030,4A6CFA&height=220&section=header&text=Mustapha%20Ukizuru&fontSize=48&fontColor=F7F9F4&fontAlignY=36&desc=IT%20Manager%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20CS%20Educator&descAlignY=56&descColor=F7F9F4&animation=fadeIn" width="100%"/>
 
 <!-- INNOVATION GRADIENT typing: Soft Tech Blue #4A6CFA -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4A6CFA&center=true&vCenter=true&width=680&lines=Building+Digital+Systems+That+Scale+%F0%9F%9A%80;5%2B+Years+%7C+3+Continents+%7C+Infinite+Coffee+%E2%98%95;IT+Manager+%C2%B7+Full-Stack+Dev+%C2%B7+CS+Educator;Salesforce+Admin+in+Training+%F0%9F%8C%A9%EF%B8%8F;Open+to+Remote+%C2%B7+Hybrid+%C2%B7+On-Site+Roles)](https://git.io/typing-svg)
@@ -285,7 +285,7 @@ Working toward the **Salesforce Certified Administrator** credential — combini
 
 <br/><br/>
 
-<!-- PREMIUM GRADIENT footer: Indigo #420060 → Carafe #634F40 → Deep Slate #2E2F3A -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,634F40,2E2F3A&height=130&section=footer" width="100%"/>
+<!-- PRIMARY BRAND GRADIENT footer: Indigo #420060 → Peach #FFCCAF → Dark Indigo #1a0030 → Soft Tech Blue #4A6CFA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,FFCCAF,1a0030,4A6CFA&height=130&section=footer" width="100%"/>
 
 </div>
