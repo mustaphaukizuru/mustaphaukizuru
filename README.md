@@ -10,7 +10,7 @@
   ═══════════════════════════════════════════════════
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,FFCCAF,1a0030,4A6CFA&height=220&section=header&text=Mustapha%20Ukizuru&fontSize=48&fontColor=F7F9F4&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Support%20Engineer%20%C2%B7%20CS%20Educator&descAlignY=56&descColor=F7F9F4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:420060,50:634F40,100:4A6CFA&height=220&section=header&text=Mustapha%20Ukizuru&fontSize=48&fontColor=FFCCAF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Support%20Engineer%20%C2%B7%20CS%20Educator&descAlignY=56&descColor=F7F9F4&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4A6CFA&center=true&vCenter=true&width=780&lines=Building+Digital+Systems+That+Perform+%F0%9F%9A%80;Full-Stack+Dev+%C2%B7+Technical+Support+%C2%B7+CS+Educator;5%2B+Years+%7C+4+Countries+%7C+3+Continents+%7C+4+Languages;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Java+%C2%B7+GCP+%C2%B7+AWS;MSc+Software+Engineering+%E2%80%94+March+2026;Open+to+Remote+%C2%B7+Hybrid+%C2%B7+On-Site+Roles+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
@@ -327,6 +327,6 @@ Working toward the **Salesforce Certified Administrator** credential — combini
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=420060,FFCCAF,1a0030,4A6CFA&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A6CFA,50:634F40,100:420060&height=130&section=footer" width="100%"/>
 
 </div>
